@@ -1,0 +1,55 @@
+.imgLogo{
+  position: absolute;
+  z-index: 5;
+  width: 140px;
+  height: auto;
+  margin: 55px 0 0 5px;
+}
+.abtbtn{
+  padding: 15px;
+  float: left;
+  position: relative;
+  top: 0;
+  cursor: pointer;
+  text-align: center;
+  margin: 0px 30px;
+  font-size: 170%;
+  color: black;
+  /* font-size: 30px; */
+}
+.buybtn {
+  float: left;
+  position: relative;
+  top: 0;
+  cursor: pointer;
+  border: 3px solid black;
+  /* border-radius: 5px; */
+  margin: 20px 50px 20px 0;
+  padding: 0 20px;
+  text-align: center;
+
+  /* Smoothing out hover using css3 transitions, if not, the pressed button effect looks a bit hard */
+  transition: all 0.4s ease;
+
+  /* Size */
+  line-height: 25px;
+  width: 100%;
+  height: 45px;
+  font-size: 150%;
+
+  /* Colors */
+  background: #f7f7f7;
+  box-shadow: 0 1px rgba(0, 0, 0, 0.2);
+  color: rgb(250, 250, 250);
+}
+/* .buybtn:hover {
+  background: black;
+  box-shadow: 0 2px #aaa;
+  color: white;
+}
+
+
+.buybtn:active {
+  top: 3px;
+  box-shadow: none;
+} */
