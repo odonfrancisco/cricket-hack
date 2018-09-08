@@ -1,0 +1,49 @@
+h1 {
+  /* font: underline; */
+}
+
+h2 {
+  font-style: bold;
+}
+
+h5 {
+  font-size: 16px;
+}
+
+#main-container {
+  border: 2px;
+  border-color: black;
+  border-style: solid;
+  padding: 15px;
+  background-color: rgb(223, 167, 223)
+}
+
+#lightblue-container {
+  position: relative;
+  background-color: #24D2FD;
+  padding: 15px;
+  height: 500px;
+  width: 650px;
+}
+
+#darkblue-container {
+  position: relative;
+  background-color: #2799D4;
+  padding: 15px;
+  width: 350px;
+  height: 250px;
+  align-self: right;
+  left: 650px;
+  bottom: 500px;
+}
+
+#green-container {
+  position: relative;
+  background-color: #63BBB0;
+  padding: 15px;
+  width: 350px;
+  height: 277px;
+  align-self: Right;
+  left: 650px;
+  bottom: 550px;
+}
