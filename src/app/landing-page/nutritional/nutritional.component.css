@@ -1,9 +1,12 @@
 h1 {
-  /* font: underline; */
+  color: black;
+  font-size: 70px;
 }
 
 h2 {
   font-style: bold;
+  color: white;
+  font-family: Avenir;
 }
 
 h5 {
