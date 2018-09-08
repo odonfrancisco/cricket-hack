@@ -8,6 +8,15 @@
     background-color: #f4f3f3;
 }
 
+.product-image{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    height: 29vw;
+}
+
 .col-6{
     display: flex;
     align-content: center;
