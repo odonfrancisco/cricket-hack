@@ -1,0 +1,13 @@
+.container{
+    padding: 0;
+    margin: 0;
+    max-width: 100%;
+}
+
+.content{
+    background-image: url("https://files.slack.com/files-pri/T02CQ4EN4-FCPKSNQD9/coast-cricket-chocolate-bar.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+}
