@@ -13,6 +13,10 @@ h5 {
   font-size: 16px;
 }
 
+a {
+  color: white;
+}
+
 /* 
 #main-container {
   border: 2px;
@@ -24,9 +28,10 @@ h5 {
 #lightblue-container {
   position: relative;
   background-color: #24D2FD;
-  padding: 15px;
+  padding: 20px;
   height: 500px;
   width: 650px;
+  left: 100px;
 }
 
 #darkblue-container {
@@ -36,7 +41,7 @@ h5 {
   width: 350px;
   height: 250px;
   align-self: right;
-  left: 650px;
+  left: 750px;
   bottom: 500px;
 }
 
@@ -47,6 +52,6 @@ h5 {
   width: 350px;
   height: 277px;
   align-self: Right;
-  left: 650px;
+  left: 750px;
   bottom: 550px;
 }
